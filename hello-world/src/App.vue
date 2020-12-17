@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Change the App"/>
+  <HelloWorld msg="Change the App in develop"/>
 </template>
 
 <script>
